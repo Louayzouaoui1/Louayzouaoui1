@@ -12,19 +12,75 @@
 
 ---
 
-### TL;DR
+I'm a full-stack engineer from Tunisia. I like taking a product from a blank repo to real users:
+the interface, the API, the database, the deploy pipeline, and the 2 a.m. fix nobody else saw.
+I've been doing it professionally since 2022, for startups, agencies and large organisations,
+often in Arabic, right to left, and in several languages at once.
 
-- Full-stack engineer building products end to end, from the interface to the server it runs on
-- Web, mobile and AI features, with a soft spot for multilingual and right-to-left products
-- Writing production code since 2022
-- Studying for an engineering degree in the evenings, because one full-time job seemed too relaxing
-- Speaks Arabic, English, French, and fluent sarcasm
+### Things I've shipped
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Government-scale platforms</b><br/>
+      Bilingual workflow systems used by senior officials, with SSO, fine-grained permissions,
+      notifications and audit trails. Also led a team on one of them.
+    </td>
+    <td width="50%" valign="top">
+      <b>AI products</b><br/>
+      CV analysis with vision OCR, streaming AI coaches, legal assistants and text-to-SQL
+      chat with charts. LLM features that do a job, not chatbots bolted onto a sidebar.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Mobile apps</b><br/>
+      Cross-platform apps on the App Store and Play Store, with offline mode, push notifications,
+      in-app calls and payments.
+    </td>
+    <td valign="top">
+      <b>Design systems</b><br/>
+      Shared component libraries with full right-to-left support, published as packages
+      that other teams build on.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>SaaS &amp; dashboards</b><br/>
+      Health, education, fitness and recruitment platforms: subscriptions, billing,
+      scheduling, real-time chat and admin back-offices.
+    </td>
+    <td valign="top">
+      <b>Infrastructure &amp; security</b><br/>
+      Docker, CI/CD, self-hosted runners and reverse proxies, plus supply-chain malware
+      scanning across whole GitHub organisations.
+    </td>
+  </tr>
+</table>
 
 ### Tech I reach for
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nestjs,nodejs,postgres,prisma,supabase,tailwind,docker,flutter,redis,githubactions,cloudflare&perline=14" />
-</p>
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,redux,vue&perline=14" />
+
+**Backend & data**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,prisma,supabase,redis,python,fastapi&perline=14" />
+
+**Mobile, cloud & tooling**<br/>
+<img src="https://skillicons.dev/icons?i=flutter,docker,githubactions,cloudflare,gcp,nginx,linux,git&perline=14" />
+
+### How I work
+
+- I read the requirements, then I read them again, then I ask the question everyone was avoiding
+- Ship small, ship often, write the test before the bug report does
+- Clear code beats clever code. Clever code is a bug in disguise
+- If it isn't deployed, it isn't done
+
+### Right now
+
+- Shipping a coaching app to the App Store and Play Store
+- Studying for an engineering degree in the evenings, because one full-time job seemed too relaxing
+- Speaking Arabic, English, French, and fluent sarcasm
 
 ---
 
