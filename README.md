@@ -98,6 +98,16 @@ I filed a ticket. The ticket is now on a spiritual journey.
 
 **What didn't:** my badges, my stars, and a contribution graph I was frankly a little smug about. Pull Shark, I will see you again.
 
+**Lost & found:** 35 repos recovered from one laptop, every commit back on its original date.
+Turns out "it works on my machine" is also a backup strategy.
+
 > If my green squares look like I started coding this month: I didn't. I just respawned.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Louayzouaoui1/Louayzouaoui1/output/snake-dark.svg" />
+    <img alt="Contribution snake eating my green squares" src="https://raw.githubusercontent.com/Louayzouaoui1/Louayzouaoui1/output/snake.svg" />
+  </picture>
+</p>
 
 <p align="center"><sub>Most of my work lives in private repos. Happy to walk you through it on a call.</sub></p>
