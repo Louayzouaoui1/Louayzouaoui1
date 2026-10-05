@@ -98,7 +98,7 @@ I filed a ticket. The ticket is now on a spiritual journey.
 
 **What didn't:** my badges, my stars, and a contribution graph I was frankly a little smug about. Pull Shark, I will see you again.
 
-**Lost & found:** 35 repos recovered from one laptop, every commit back on its original date.
+**Lost & found:** whatever was still on my laptop came back, every commit on its original date.
 Turns out "it works on my machine" is also a backup strategy.
 
 > If my green squares look like I started coding this month: I didn't. I just respawned.
