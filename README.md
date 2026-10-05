@@ -80,7 +80,7 @@ often in Arabic, right to left, and in several languages at once.
 
 - Shipping a coaching app to the App Store and Play Store
 - Studying for an engineering degree in the evenings, because one full-time job seemed too relaxing
-- Speaking Arabic, English, French, and fluent sarcasm
+- Speaking Arabic, English and French
 
 ---
 
